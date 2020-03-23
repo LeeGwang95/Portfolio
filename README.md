@@ -1,5 +1,8 @@
 # Portfolio
+
 이광용 포트폴리오
+
+<img width="1382" alt="스크린샷 2020-03-23 오후 7 20 27" src="https://user-images.githubusercontent.com/62536330/77306697-61d3f400-6d3b-11ea-8e4d-059aaafb258a.png">
 
 <h3>개인 정보</h3>
 
