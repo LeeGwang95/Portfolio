@@ -9,6 +9,8 @@
 
 - NaverMail : cf0127@naver.com
 
+- Youtube(Project) : https://www.youtube.com/channel/UCjyMEmXvF5DJeXRpdIy4zYA
+
 <h3>보유 기술</h3>
 
 - C, Python, Java
@@ -20,7 +22,9 @@
 <h3>경력 및 자격증</h3>
 
 - Wezone (2019) in Korea
+
   It 개발팀 인턴
+  
   프레임워크 교육 및 관련 기자재 및 고객명단 데이터베이스화 작업
   
 - Web Presence in China (2018)  in Vancouver
@@ -50,4 +54,6 @@ GBC(Gastown Business College)
 
 =========================================================================
 
+<h3>주요 프로젝트</h3>
+<a>https://github.com/LeeGwang95/AIRoomMusic</a>
 
