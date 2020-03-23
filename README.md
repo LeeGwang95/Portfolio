@@ -98,6 +98,11 @@ GBC(Gastown Business College)
 
 -> 해결 : 대부분의 80년 이상된 클래식 곡으로 학습 및 무료 저작권 음악 사용
 
+<h3> Image </h3>
+
+<img width="1161" alt="스크린샷 2020-03-23 오후 7 13 43" src="https://user-images.githubusercontent.com/62536330/77306117-85e30580-6d3a-11ea-9a41-f3e11c9c76bf.png">
+
+
 ---------------------------------------------------------------------------
 
 <h2><a href = "https://github.com/LeeGwang95/HowMuchFish"> 선형회귀를 통한 수산물 가격 예측 플랫폼 </a></h2>
@@ -144,5 +149,9 @@ GBC(Gastown Business College)
 - 느낀점
 
 -> 처음으로 기획 및 개발을 주도한 프로젝트로서 부족하지만 프론트 백앤드 모두를 경험할 수 있었습니다. 이를 계기로 프로젝트를 기획 및 개발 할 수 있는 능력을 공부 중    입니다. 
+
+<h3> Image </h3>
+
+<img width="880" alt="스크린샷 2020-03-23 오후 7 15 41" src="https://user-images.githubusercontent.com/62536330/77306224-b4f97700-6d3a-11ea-88d8-b78ddaef6709.png">
 
 
