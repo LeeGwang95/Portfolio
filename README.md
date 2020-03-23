@@ -56,5 +56,13 @@ GBC(Gastown Business College)
 
 <h3>주요 프로젝트</h3>
 
-<a href = "https://github.com/LeeGwang95/AIRoomMusic"> LSTM을 활용한 AI 작곡 플랫폼 </a>
+<h2><a href = "https://github.com/LeeGwang95/AIRoomMusic"> LSTM을 활용한 AI 작곡 플랫폼 </a></h2>
+
+- 2019년 팀프로젝트2 수업 프로젝트 였습니다.
+
+# Why?
+
+# How?
+
+# 느낀점 및 아쉬운점
 
