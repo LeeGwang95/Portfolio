@@ -162,4 +162,6 @@ GBC(Gastown Business College)
 
 <img width="880" alt="스크린샷 2020-03-23 오후 7 15 41" src="https://user-images.githubusercontent.com/62536330/77306224-b4f97700-6d3a-11ea-88d8-b78ddaef6709.png">
 
+# 기타
 
+->  https://github.com/LeeGwang95?tab=repositories
